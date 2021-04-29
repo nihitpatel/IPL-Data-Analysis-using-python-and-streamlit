@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-from tabulate import tabulate
 from st_aggrid import AgGrid
 import seaborn as sns
 import numpy as np
